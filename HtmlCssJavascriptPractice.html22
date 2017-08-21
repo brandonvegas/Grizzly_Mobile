@@ -1,0 +1,50 @@
+<!doctype html>
+
+<html>
+<head>
+<title> Grizzly Mobile</title>
+</head>
+
+
+<body>
+  <h1>Grizzly Mobile</h1>
+
+<script type="text/javascript">
+
+
+
+
+
+
+
+
+document.write("hey now brown cow");
+var Brandon = 1000;
+document.write (Brandon);
+</script>
+  <h2><strong>"The #1 source for premium discount Nike shoes!!!"</strong></h2><br />
+  <strong>I can't help you if you don't take my advice!</strong>
+<hr />
+  <h3>HAHAHAHAHA</h3>
+<p> happy and you know it clap your hands!!!</> <br />
+<em>I can't help my happiness!!!</em> <br /> Best move ever!!!
+<p> money in the bank</p>
+<a href="http://www.google.com">This will be a link</a>
+</body>
+<a href="file:///Users/brandonjones/Desktop/index.html">Smile if you happy</a>
+<!-- Hello -->
+
+<br     /br>
+<br     /br>
+<br     /br>
+
+<script type="text/javascript">
+
+function AddNumbers(a,b){
+  var c = a+b;
+  return c;
+}
+document.write(AddNumbers(3,6));
+
+</script>
+</html>
